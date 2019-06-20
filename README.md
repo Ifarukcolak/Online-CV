@@ -24,4 +24,10 @@ After editing template, use *surge* to deploy your CV
 ```bash
 surge
 ```
-If you do not have a surge account, login your with e-mail address then create your password. Then enter your project path. You can also deploy again your CV with same domain after editting CV.
+If you do not have a surge account, login your with e-mail address then create your password and enter your project path. You can also deploy again your CV with same domain after editting CV. 
+
+Here is [my online cv](http://ismetfarukcolak.surge.sh)
+# Built With
+***
++ surge -Deployment and assign domain
++ npm   -Package management
