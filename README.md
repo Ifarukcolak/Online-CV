@@ -14,7 +14,7 @@ Secondly, after click the link, download template and change necessary things wi
 
 Lastly, we need a server to deploy our CV and domain. Our CV's is a static page so we can  use [surge.sh](https://surge.sh/) because this platform provides us to deploying unlimited static pages and use custom domains.
 
-# Installing
+# Installing & Running & Deployment
 ***
 Install [surge](https://surge.sh/) using npm with this command 
 ```bash
@@ -24,4 +24,4 @@ After editing template, use *surge* to deploy your CV
 ```bash
 surge
 ```
-If you do not have a surge accoung, login your with e-mail address then create your password. Then enter your project path.
+If you do not have a surge account, login your with e-mail address then create your password. Then enter your project path. You can also deploy again your CV with same domain after editting CV.
