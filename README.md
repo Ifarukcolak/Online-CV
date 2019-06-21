@@ -4,7 +4,7 @@ Publish your CV using surge.sh without any price
 
 # Getting Started
 ***
-This project contains informations about how can deploy your cv without any payment of templates,domains or server.
+This project contains informations about how can deploy your cv **without any payment of templates, domains or server**.
 
 # Prerequisites
 ***
